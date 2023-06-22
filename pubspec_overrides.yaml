@@ -1,0 +1,5 @@
+dependency_overrides:
+  ws_game_server_types:
+    git: https://github.com/enspyrco/ws_game_server_types
+  enspyr_lints:
+    git: https://github.com/enspyrco/enspyr_lints
